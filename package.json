@@ -1,0 +1,24 @@
+{
+  "name": "atividadesrenan",
+  "version": "1.0.0",
+  "description": "Minha primeira API",
+  "homepage": "https://github.com/nevascalindo/atividadesRENAN#readme",
+  "bugs": {
+    "url": "https://github.com/nevascalindo/atividadesRENAN/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevascalindo/atividadesRENAN.git"
+  },
+  "license": "ISC",
+  "author": "Nevasca",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
